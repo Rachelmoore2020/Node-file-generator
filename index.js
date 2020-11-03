@@ -75,13 +75,12 @@ const promptUser = () => {
 
 // function to generate markdown for README
 
-function generateMarkdown(answers) {
-  return `# ${answers.title}
-
+const generateMarkdown = answers =>  {
+  return `
 
   # ${answers.projectName}
 
-  ![Licernse](https://img.shields.io/badge/License-${response.license}-blue.svg "License Badge")
+  ![Licernse](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
   
 
 
@@ -139,6 +138,7 @@ For questions about Node File Generator, visit my GitHub page:
 promptUser()
   .then((answers) => {
     const readMe = generateMarkdown(answers);
+
     return writeFileAsync("README.md", readMe);
   })
   .then(() => {
@@ -149,5 +149,5 @@ promptUser()
 
 
 //   function call to initialize program
-  function init() 
+//   init();
 
