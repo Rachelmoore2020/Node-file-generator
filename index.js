@@ -86,14 +86,14 @@ const generateMarkdown = answers =>  {
 
     # Table of Contents
 
-    - [Description](#-description:)
-    - [User Story](#-user-story:)
-    - [Installation](#what-command-should-be-run-to-install-dependencies?)
-    - [Usage](#repo)
-    - [Contributors](#builders)
-    - [Contributing](#contrib)
-    - [Testing](#test)
-    - [License](#license)
+    * [Description](#-description:)
+    * [User Story](#-user-story:)
+    * [Installation](#what-command-should-be-run-to-install-dependencies?)
+    * [Usage](#repo)
+    * [Contributors](#builders)
+    * [Contributing](#contrib)
+    * [Testing](#test)
+    * [License](#license)
     
 
 ## Description:
