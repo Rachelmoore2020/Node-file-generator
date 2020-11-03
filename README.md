@@ -4,9 +4,6 @@
 
   ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
   
-![Node File Generator Screenshot](https://user-images.githubusercontent.com/68473729/98022466-a7799480-1dd3-11eb-9a1c-f4a0837bd698.jpg)
-
-
     # Table of Contents
 
 * [Description](#description)
@@ -18,6 +15,7 @@
 * [Testing](#what-command-should-be-run-to-run-tests)
 * [License](#what-license-is-the-application-covered-under)
 * [Questions](#questions)
+* [Demonstration](#demonstration
     
 
 ## Description:
@@ -54,3 +52,5 @@ For questions about Node File Generator, visit my GitHub page:
   ## License:
   Click on the link to find information about the license
   [License](https://opensource.org/licenses/)
+
+## Demonstration:
