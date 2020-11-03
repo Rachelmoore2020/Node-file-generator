@@ -15,7 +15,7 @@
 * [Testing](#what-command-should-be-run-to-run-tests)
 * [License](#what-license-is-the-application-covered-under)
 * [Questions](#questions)
-* [Demonstration](#demonstration
+* [Demonstration](#demonstration)
     
 
 ## Description:
