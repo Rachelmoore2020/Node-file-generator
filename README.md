@@ -1,10 +1,10 @@
 
 
-  # Node File Generator
+# Node File Generator
 
   ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
   
-    # Table of Contents
+# Table of Contents
 
 * [Description](#description)
 * [User Story](#user-story)
