@@ -86,9 +86,9 @@ const generateMarkdown = answers =>  {
 
     # Table of Contents
 
-    - [Description](#desc)
-    - [User Story](#user)
-    - [Installation](#depend)
+    - [Description](#-description:)
+    - [User Story](#-user-story:)
+    - [Installation](#what-command-should-be-run-to-install-dependencies?)
     - [Usage](#repo)
     - [Contributors](#builders)
     - [Contributing](#contrib)
@@ -102,22 +102,22 @@ const generateMarkdown = answers =>  {
 ## User Story:
     ${answers.user}
 
-## Installation:
+## What command should be run to install dependencies?
     ${answers.depend}
 
-## Usage:
+## What does the user need to know about using the repo?
     ${answers.repo}
 
-## Contributors:
+## Contributors to this Project:
     ${answers.builders}
 
-## Contributing:
+## What does the user need to know about contributing to this repo?
     ${answers.contrib}
 
-## Testing:
+## What command should be run to run tests?
     ${answers.test}
 
-## License:
+## What license is the application covered under?
     ${answers.license}
 
 ## Questions:
@@ -129,7 +129,7 @@ For questions about Node File Generator, visit my GitHub page:
   
   ## License:
   Click on the link to find information about the license
-  [License](https://opensource.org/licence/${answers.license})
+  [License](https://opensource.org/licenses/${answers.license})
 `;
 }
 

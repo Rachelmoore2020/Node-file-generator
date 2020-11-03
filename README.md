@@ -1,6 +1,6 @@
 
 
-  # Node File Generator
+  # k
 
   ![Licernse](https://img.shields.io/badge/License--blue.svg "License Badge")
   
@@ -8,9 +8,9 @@
 
     # Table of Contents
 
-    - [Description](#desc)
-    - [User Story](#user)
-    - [Installation](#depend)
+    - [Description](#-description:)
+    - [User Story](#-user-story:)
+    - [Installation](#what-command-should-be-run-to-install-dependencies?)
     - [Usage](#repo)
     - [Contributors](#builders)
     - [Contributing](#contrib)
@@ -19,36 +19,36 @@
     
 
 ## Description:
-    The Node File Generator writes a README.md file and is populated with user input. The file contains a Title, table of Contents, information about the license, contributors, installation, usage, and testing. A gif demonstrates the operation of the generator.
+    k
 
 ## User Story:
-    AS A developer
+    k
 
-## Installation:
-    npm i
+## What command should be run to install dependencies?
+    k
 
-## Usage:
-    Nothing
+## What does the user need to know about using the repo?
+    k
 
-## Contributors:
-    Rachel Moore
+## Contributors to this Project:
+    k
 
-## Contributing:
-    Nothing
+## What does the user need to know about contributing to this repo?
+    k
 
-## Testing:
-    npm test
+## What command should be run to run tests?
+    k
 
-## License:
+## What license is the application covered under?
     
 
 ## Questions:
 For questions about Node File Generator, visit my GitHub page:
-    https://github.com/Rachelmoore2020
+    k
   
   ## You may also contact me via email at:
-  rachelmoore6822@gmail.com
+  k
   
   ## License:
   Click on the link to find information about the license
-  [License](https://opensource.org/licence/)
+  [License](https://opensource.org/licenses/)
