@@ -54,6 +54,6 @@ For questions about Node File Generator, visit my GitHub page:
   [License](https://opensource.org/licenses/)
 
 ## Demonstration:
-![Node File Generator Demo](https://user-images.githubusercontent.com/68473729/98023449-f4aa3600-1dd4-11eb-95b9-e38890bdb496.gif)
+![Node File Generator Demo](https://user-images.githubusercontent.com/68473729/98024655-9aaa7000-1dd6-11eb-969a-384cc167c8e1.gif)
 For a link to the demonstration click here:
 https://drive.google.com/file/d/1Vqc1J4j_L_FCeOzicnlXXtA8AvV4atii/view?usp=sharing
