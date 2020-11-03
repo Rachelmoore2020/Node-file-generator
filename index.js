@@ -80,20 +80,21 @@ const generateMarkdown = answers =>  {
 
   # ${answers.projectName}
 
-  ![Licernse](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
+  ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
   
 
 
     # Table of Contents
 
-    * [Description](#-description:)
-    * [User Story](#-user-story:)
-    * [Installation](#what-command-should-be-run-to-install-dependencies?)
-    * [Usage](#repo)
-    * [Contributors](#builders)
-    * [Contributing](#contrib)
-    * [Testing](#test)
-    * [License](#license)
+* [Description](#description)
+* [User Story](#user-story)
+* [Installation](#what-command-should-be-run-to-install-dependencies)
+* [Usage](#what-does-the-user-need-to-know-about-using-the-repo)
+* [Contributors](#contributors-to-this-project)
+* [Contributing](#what-does-the-user-need-to-know-about-contributing-to-this-repo)
+* [Testing](#what-command-should-be-run-to-run-tests)
+* [License](#what-license-is-the-application-covered-under)
+* [Questions](#questions)
     
 
 ## Description:
